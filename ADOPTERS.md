@@ -11,6 +11,7 @@ URLs if possible) and [submit a pull request][1]!
 * [Brigade](https://www.brigade.com/)
 * [Buoyant](http://buoyant.io/)
 * [Chartboost](https://www.chartboost.com/)
+* [Credit Karma](https://www.creditkarma.com/)
 * [Crimson Hexagon](http://www.crimsonhexagon.com/)
 * [Criteo](http://www.criteo.com/)
 * [Despegar](http://www.despegar.com/)
